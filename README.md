@@ -8,8 +8,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="refresh" content="0; url=https://www.qrfy.com/IZgiPfvp53">
     <title>Redirecionando...</title>
-</head>
-<body>
             window.location.href = "https://drive.google.com/file/d/1_H4VkWjtWJCrPUyXXvQwduBlnEVmw2-g/view?usp=sharing";
         }, 3000); // Tempo de espera em milissegundos (3000ms = 3 segundos)
     </script>
