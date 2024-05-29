@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=https://qrfy.io/r/IZgiPfvp53">
+    <meta http-equiv="refresh" content="0; url=https://www.qrfy.com/IZgiPfvp53">
     <title>Redirecionando...</title>
 </head>
 <body>
