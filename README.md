@@ -8,6 +8,11 @@
 <body>
     <p>Redirecionando para o próximo destino...</p>
     <script>
+        <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=https://www.qrfy.com/IZgiPfvp53">
         // Redirecionamento alternativo usando JavaScript caso o meta refresh falhe
         setTimeout(function() {
             window.location.href = "https://drive.google.com/file/d/1_H4VkWjtWJCrPUyXXvQwduBlnEVmw2-g/view?usp=sharing";
