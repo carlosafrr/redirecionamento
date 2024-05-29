@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=https://www.qrfy.com/IZgiPfvp53">
-    <title>Redirecionando...</title>
-</head>
-<body>
-    <p>Redirecionando para o próximo destino...</p>
+ <p>Redirecionando para o próximo destino...</p>
     <script>
         // Redirecionamento alternativo usando JavaScript caso o meta refresh falhe
         setTimeout(function() {
