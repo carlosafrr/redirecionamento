@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=https://bit.ly/4dR6ETz">
+    <meta http-equiv="refresh" content="0; url=tinyurl.com/2hpfsp2t">
     <title>Redirecionando...</title>
 </head>
 <body>
