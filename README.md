@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=https://drive.google.com/file/d/1_H4VkWjtWJCrPUyXXvQwduBlnEVmw2-g/view?usp=sharing">
+    <meta http-equiv="refresh" content="0; url=https://bit.ly/4dR6ETz">
     <title>Redirecionando...</title>
 </head>
 <body>
