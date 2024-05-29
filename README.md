@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=qrgy.io/r/lZgiPfvp53">
+    <meta http-equiv="refresh" content="0; url=https://rebrand.ly/CodeGenerator9e832a">
     <title>Redirecionando...</title>
 </head>
 <body>
